@@ -7,7 +7,7 @@ This smart contract is written in Solidity. Main feature(s) include:
 #### mainnet deployment (please try it out on testnets first)
 - Ethereum (id: `1`; compiler: `^0.8.24`) [contract address](https://etherscan.io/address/0xdf42078b80f3846Ca16C7B62317E56c969698D42)
 #### testnet deployment (recommended)
-- Goerli* (id: `5`; compiler: `^0.8.24`) [contract address](https://goerli.etherscan.io/address/0x94a72e3ed15F17633Ae66173A3d307a055385E55) *deprecated
+- Goerli* (id: `5`; compiler: `^0.8.24`) [contract address](https://goerli.etherscan.io/address/0x94a72e3ed15F17633Ae66173A3d307a055385E55) *deprecated (might not work)
 - Sepolia (id: `11155111`; compiler: `^0.8.24`) [contract address](https://sepolia.etherscan.io/address/0x9Ef8BAB03aa891Ee625fCfAf0DF482036cf71420)
 - Holesky (id: `17000`; compiler: `^0.8.25`) [contract address](https://holesky.etherscan.io/address/0xB4e31320Be11bAab45817414274a3e98577bDafd)
 - Linea (id: `59140`; compiler: `^0.8.19`) [contract address](https://goerli.lineascan.build/address/0xC623F092C0aBCef29d9cD6B2B8948469876515D3)
